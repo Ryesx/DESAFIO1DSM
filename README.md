@@ -1,2 +1,3 @@
 # DESAFIO1DSM
-No mas pal desafio
+DESAFIO 1 hecho por jose manuel reyes echeverria RE242138
+
